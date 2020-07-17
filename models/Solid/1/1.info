@@ -1,0 +1,72 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2016 SP5.0. Build: 3591
+                Computer name:   DESKTOP-HUTS5PB
+                User name:   xenial
+                Processors:   Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+                Memory:   16257 MB / 134217727 MB
+                Operating system:   Windows 10 (or higher) (Version 10.0.18363)
+                CAD version:   SOLIDWORKS 2016 SP5.0
+                CPU speed:   2208 MHz
+
+    General Info
+                Model:   KexW8.SLDASM
+                Project name:   KexW8
+                Project path:   C:\Users\xenial\Desktop\Docs\KexW8\models\Solid\1
+                Units system:   SI (m-kg-s)
+                Analysis type:   External (not exclude internal spaces)
+                Exclude cavities without flow conditions :   Off
+                Coordinate system:   Global coordinate system
+                Reference axis:   X
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   Off
+                Flow type:   Laminar and turbulent
+                High Mach number flow:   Off
+                Humidity:   Off
+                Default roughness:   0 micrometer
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -0.076 m
+                X max:   0.543 m
+                Y min:   0.306 m
+                Y max:   0.545 m
+                Z min:   0.164 m
+                Z max:   1.169 m
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   87
+                Number of cells in Y:   32
+                Number of cells in Z:   140
+
+        Number Of Cells
+                Cells:   396375
+                Fluid cells:   396375
+                Irregular cells:   0
+                Trimmed cells:   0
+                Maximum refinement level:   1
+
+    Goals
+                
+                Name   	Unit   	Value   	Progress   	Criteria   	Delta   	Use in convergence 
+
+    General Info
+                Iterations:   228
+                CPU time:   887 s
+
+        Log
+                Mesh generation started:   21:31:16 , Jul 16
+                Mesh generation normally finished:   21:31:28 , Jul 16
+                Preparing data for calculation:   21:31:29 , Jul 16
+                Calculation started	0:   21:31:38 , Jul 16
+                Calculation has converged since the following criteria are satisfied:	227:   21:46:19 , Jul 16
+                    Goals are converged	227:   
+                Calculation finished	228:   21:46:35 , Jul 16
