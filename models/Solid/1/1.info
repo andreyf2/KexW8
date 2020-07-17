@@ -33,23 +33,23 @@
     Computational Domain
 
         Size
-                X min:   -0.076 m
-                X max:   0.543 m
-                Y min:   0.306 m
-                Y max:   0.545 m
-                Z min:   0.164 m
-                Z max:   1.169 m
+                X min:   -0.132 m
+                X max:   0.636 m
+                Y min:   0.250 m
+                Y max:   0.620 m
+                Z min:   0.106 m
+                Z max:   1.227 m
 
     Calculation Mesh
 
         Basic Mesh Dimensions
-                Number of cells in X:   87
+                Number of cells in X:   69
                 Number of cells in Y:   32
-                Number of cells in Z:   140
+                Number of cells in Z:   100
 
         Number Of Cells
-                Cells:   396375
-                Fluid cells:   396375
+                Cells:   226777
+                Fluid cells:   226777
                 Irregular cells:   0
                 Trimmed cells:   0
                 Maximum refinement level:   1
@@ -59,14 +59,14 @@
                 Name   	Unit   	Value   	Progress   	Criteria   	Delta   	Use in convergence 
 
     General Info
-                Iterations:   228
-                CPU time:   887 s
+                Iterations:   189
+                CPU time:   400 s
 
         Log
-                Mesh generation started:   21:31:16 , Jul 16
-                Mesh generation normally finished:   21:31:28 , Jul 16
-                Preparing data for calculation:   21:31:29 , Jul 16
-                Calculation started	0:   21:31:38 , Jul 16
-                Calculation has converged since the following criteria are satisfied:	227:   21:46:19 , Jul 16
-                    Goals are converged	227:   
-                Calculation finished	228:   21:46:35 , Jul 16
+                Mesh generation started:   07:31:20 , Jul 17
+                Mesh generation normally finished:   07:31:29 , Jul 17
+                Preparing data for calculation:   07:31:29 , Jul 17
+                Calculation started	0:   07:31:38 , Jul 17
+                Calculation has converged since the following criteria are satisfied:	188:   07:38:11 , Jul 17
+                    Goals are converged	188:   
+                Calculation finished	189:   07:38:20 , Jul 17
