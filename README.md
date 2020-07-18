@@ -2,6 +2,7 @@
  Mini FPV wing. 800mm wingspan. 3d printable. Possible to assemble sub-250g.
 
     For this project:
+    
     Electronics
 -9g Servos
 -1408 Xing BLDC motor
@@ -20,6 +21,7 @@
 -3d printed PETG parts
 
     Weight
+    
     Materials
 -3d printed parts                  ~62g
 -5mm*410mm carbon pipe (3pcs)      ~9.3g*3
