@@ -2,7 +2,7 @@
  Mini FPV wing. 800mm wingspan. 3d printable. Possible to assemble sub-250g.
 
     For this project:
-Electronics
+    Electronics
 -9g Servos
 -1408 Xing BLDC motor
 -3Inch Prop
@@ -11,7 +11,7 @@ Electronics
 -30A Emax Bullet ESC
 -3S 650mAh battery 
 
-Materials
+    Materials
 -dia 5mm carbon Pipe
 -dia 1,5mm carbon Rod
 -4*0.5mm carbon Flachstab
@@ -19,8 +19,8 @@ Materials
 -2.5 mm balsa plate
 -3d printed PETG parts
 
-     Weight
-Materials
+    Weight
+    Materials
 -3d printed parts                  ~62g
 -5mm*410mm carbon pipe (3pcs)      ~9.3g*3
 -5mm*140mm carbon piipe            ~3.2g
@@ -30,7 +30,7 @@ Materials
 -depron 3mm ???
 -winglets (depron) (2pcs)          ~0.2g
 
-Electronics
+    Electronics
 -3S 650mAh battery                  ~70g
 -1408 Xing BLDC motor               ~16.5g
 -3 Inch Prop                        ~1,3
@@ -39,12 +39,12 @@ Electronics
 -20*20 flight controller            ~10g
 -30A Emax BUllet ESC                ~3.9g
 
-FPV(Opional)
+    FPV(Opional)
 -cam
 -Transmitter
 -Antenna
 
-Sum: ~218.9g (without glue, screws, wires, etc.)
+    Sum: ~218.9g (without glue, screws, wires, etc.)
  sub- 250g:
  ~31g for glue, screws, wires, strap, depron or foil, etc.
 
