@@ -26,6 +26,7 @@ Materials
     Weight
     
 Materials
+
     -3d printed parts                  ~62g
     -5mm*410mm carbon pipe (3pcs)      ~9.3g*3
     -5mm*140mm carbon piipe            ~3.2g
@@ -36,6 +37,7 @@ Materials
     -winglets (depron) (2pcs)          ~0.2g
 
 Electronics
+
     -3S 650mAh battery                  ~70g
     -1408 Xing BLDC motor               ~16.5g
     -3 Inch Prop                        ~1,3
@@ -45,6 +47,7 @@ Electronics
     -30A Emax BUllet ESC                ~3.9g
 
 FPV(Opional)
+
     -cam
     -Transmitter
     -Antenna
