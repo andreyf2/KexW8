@@ -44,7 +44,7 @@ Electronics
     -Servos (2pcs)                      ~18g
     -r9mini(r9mm)                       ~1.1g
     -20*20 flight controller            ~10g
-    -30A Emax BUllet ESC                ~3.9g
+    -30A Emax Bullet ESC                ~3.9g
 
 FPV(Opional)
 
