@@ -52,7 +52,9 @@ FPV(Opional)
     -Transmitter
     -Antenna
 
-    Sum: ~218.9g (without glue, screws, wires, etc.)
+Sum: 
+   
+    ~218.9g (without glue, screws, wires, etc.)
     sub- 250g:
     ~31g for glue, screws, wires, strap, depron or foil, etc.
 
